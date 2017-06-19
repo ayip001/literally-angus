@@ -1,3 +1,7 @@
+appstate_primary.json
+appstate_test.json
+appstate.json
+
 # Logs
 logs
 *.log
@@ -56,4 +60,3 @@ typings/
 
 # dotenv environment variables file
 .env
-
